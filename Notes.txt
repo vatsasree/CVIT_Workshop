@@ -1,0 +1,16 @@
+seed fill algorithm
+thresholding algorithms
+sobel filters
+understand dilation, erosion
+
+day 1 - basic python; basic IP
+day 2 - line detection, word detection; cheque number OCR
+day 3 - optimisation; biomedical imaging
+day 4 - 3D vision, Blender
+day 5 - Basic ML, Hands-on basic ML
+day 6 - tips to presentation; wandb, wandb hands-on;image captioning
+day 7 - intro to CNNs, ada
+
+Assignment: Prepare a report in LaTex 
+
+
